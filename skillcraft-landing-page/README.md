@@ -51,5 +51,5 @@ Develop a basic to-do app that enables a user to maintain tasks.
 
 ## ✨ Developed By
 
-Made with ❤️ by [Sonu Kumar](https://mrsonu.in)
+Made with ❤️ by Faizul Haque Rizwi.
 
